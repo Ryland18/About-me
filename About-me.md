@@ -15,7 +15,10 @@ Watching Movies, ,and other hobbies
 
 ~five of my favorite movie stars are Dwayne Johnson, Ryan Reynolds, Robert Downey Jr, Tom Holland, and chris Hemsworth 
 
-~<img>the_rock.jpg</img>
+![The Rock](/the_rock.jpg)
+
+
+
 
 
 
