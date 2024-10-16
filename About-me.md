@@ -43,14 +43,22 @@ five of my favorite movie stars are:
 
 My top 10 favorit songs are:
 
-|Wherever you go|Alok                               |Dance & EDM                 |November 5,2021 |this song has a Alan                                                                                  |Walker version that was released 
-                                                                                 |on January 7 2022
+|Wherever you go|Alok                               |Dance & EDM                 |November 5,2021 |
+
 |Happier        |Marshmello & Bastille              |Electronic                  |
+
 |Fight Back     |Konata Small                       |Rap/Hip-Hop                 |
+
 |Mood           |24KGoldn                           |uptempo pop rap and rap rock|
+
 |Better Off     |Alan Walker, Dash Berlin & Vikkstar|EDM                         |
+
 |Am I Wrong     |Nico & Vinz                        |Pop reggae fusion           |
+
 |Moving On      |Marshmello                         |Future bass                 |
+
 |Get Up         |Konata Small                       |Hip-Hop & Rap               |Febuary 28, 2020|
+
 |Cinematic      |Owl City                           |Electropop                  |
+|               |                                   |                            |
 |Heavy Weight   |Beat Saber & Lindsey Studio        |Electronic                  |
