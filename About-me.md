@@ -60,5 +60,5 @@ My top 10 favorit songs are:
 |Get Up         |Konata Small                       |Hip-Hop & Rap               |Febuary 28, 2020|
 
 |Cinematic      |Owl City                           |Electropop                  |
-|               |                                   |                            |
+
 |Heavy Weight   |Beat Saber & Lindsey Studio        |Electronic                  |
