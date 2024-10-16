@@ -43,22 +43,28 @@ five of my favorite movie stars are:
 
 My top 10 favorit songs are:
 
-|Wherever you go|Alok                               |Dance & EDM                 |November 5,2021 |
+|Wherever you go|Alok                               |Dance & EDM                 |November 5, 2021 |this song is a collab of Alok and John Martin 
 
-|Happier        |Marshmello & Bastille              |Electronic                  |
+|Happier        |Marshmello & Bastille              |Electronic                  |August 16, 2018  |
 
-|Fight Back     |Konata Small                       |Rap/Hip-Hop                 |
+|Fight Back     |Konata Small                       |Rap/Hip-Hop                 |2021|
 
-|Mood           |24KGoldn                           |uptempo pop rap and rap rock|
+|Mood           |24KGoldn                           |uptempo pop rap and rap rock|July 24, 2020|
 
-|Better Off     |Alan Walker, Dash Berlin & Vikkstar|EDM                         |
+|Better Off     |Alan Walker, Dash Berlin & Vikkstar|EDM                         |September 28, 2023|
 
-|Am I Wrong     |Nico & Vinz                        |Pop reggae fusion           |
+|Am I Wrong     |Nico & Vinz                        |Pop reggae fusion           |April 12, 2023|
 
-|Moving On      |Marshmello                         |Future bass                 |
+|Moving On      |Marshmello                         |Future bass                 |May 5, 2017|
 
 |Get Up         |Konata Small                       |Hip-Hop & Rap               |Febuary 28, 2020|
 
-|Cinematic      |Owl City                           |Electropop                  |
+|Cinematic      |Owl City                           |Electropop                  |June 1, 2018|
 
-|Heavy Weight   |Beat Saber & Lindsey Studio        |Electronic                  |
+|Heavy Weight   |Beat Saber & Lindsey Studio        |Electronic                  |December 11, 2023|
+
+
+
+
+
+ > 
