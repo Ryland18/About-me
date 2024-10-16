@@ -34,15 +34,16 @@ five of my favorite movie stars are:
 
  * Robert Downey Jr
 
-
+![Robert Downey Jr](/Robert_Downey_JR.jpg)
 
  * Tom Holland
 
+![Tom Holland](/Tom_Holland.jpg)
 
  * Chris Hemsworth
 
 
-
+![Chris Hemsworth](/Chris_Hemsworth.jpg)
 
 
 
