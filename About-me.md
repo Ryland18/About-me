@@ -50,9 +50,8 @@ five of my favorite movie stars are:
 My top 10 favorit songs are:
 
 | Song Name      | Artist                           | Genre            | Release Date      |
-| :------------: | :------------------------------: | :--------------: | :---------------: |
+| :------------- | :------------------------------- | :--------------- | :---------------- |
 |Wherever you go|Alok          |Dance & EDM  |November 5, 2021|this song is a collab of Alok and John Martin|
-| :------------- | :------------
 |Happier|Marshmello & Bastille|Electronic|August 16, 2018 |This song was co-written by Dan Smith and Steve Mac|
 |Fight Back |Konata Small|Rap/Hip-Hop  |2021|
 |Mood           |24KGoldn                           |uptempo pop rap and rap rock|July 24, 2020|
